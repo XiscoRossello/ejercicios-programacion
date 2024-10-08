@@ -1,5 +1,5 @@
-Creamos un programan en el que dado un numero aleatorio de petalos en una flor, éste los arrancará y finalmente dará con la oración que debiera encontrarse en esa posición, teniendo 6 opciones distintas.
-Añadimos también el numero aleatorio como parte de lo que se enseña para poder evaluar si el programa funciona correctamente, una vez comprobado puede eliminarse
+/*Creamos un programan en el que dado un numero aleatorio de petalos en una flor, éste los arrancará y finalmente dará con la oración que debiera encontrarse en esa posición, teniendo 6 opciones distintas.
+Añadimos también el numero aleatorio como parte de lo que se enseña para poder evaluar si el programa funciona correctamente, una vez comprobado puede eliminarse*/
 
 public class FloresClass {
   public static void main(String[] args) {
