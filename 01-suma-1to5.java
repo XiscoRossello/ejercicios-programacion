@@ -1,6 +1,6 @@
-Ejercicio suma de los primeros 5 numeros
+/*Ejercicio suma de los primeros 5 numeros
 
-Siguiendo el tutorial de Java de w3School primero consigo este sencillo codigo donde imprimo directamente la suma con System.out.println
+Siguiendo el tutorial de Java de w3School primero consigo este sencillo codigo donde imprimo directamente la suma con System.out.println*/
 
 public class MainClass {
   public static void main(String[] args) {
@@ -8,7 +8,7 @@ System.out.println(1+2+3+4+5);
   }
 }
 
-Luego aprendiendo a declarar variables consigo este ejemplo
+//Luego aprendiendo a declarar variables consigo este ejemplo
 
 public class MainClass {
   public static void main(String[] args) {
@@ -21,7 +21,7 @@ System.out.println(a+b+c+d+e);
   }
 }
 
-Posteriormente aprendiendo a declarar multiples variables y con algunos ejemplos de la vida real 
+//Posteriormente aprendiendo a declarar multiples variables y con algunos ejemplos de la vida real 
 
 public class MainClass {
   public static void main(String[] args) {
@@ -32,7 +32,7 @@ System.out.println(suma);
   }
 }
 
-Y el ultimo ejemplo una vez vistos los operadores 
+//Y el ultimo ejemplo una vez vistos los operadores 
 
 public class MainClass {
   public static void main(String[] args) {
