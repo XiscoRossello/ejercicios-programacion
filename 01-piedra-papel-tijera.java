@@ -1,10 +1,10 @@
-Después de más de una hora de romperme la cabeza he conseguido algo que funciona.
+/*Después de más de una hora de romperme la cabeza he conseguido algo que funciona.
 Desgraciadamente no puedo hacer un desarrollo de como he llegado hasta él ya que lo tengo en papel pero no tengo problema en explicar el proceso en clase.
 
 He seguido los tutoriales de W3school para entender como funciona tanto el Math.random como el if y else if. He intentado prebiamente hacerlo 
 con swicht case pero se me ha hecho un tanto complejo.
 
-Ejercicio final de Piedra,Papel y tijera.
+Ejercicio final de Piedra,Papel y tijera.*/
 
 public class MainClass {
 2	  public static void main(String[] args) {
