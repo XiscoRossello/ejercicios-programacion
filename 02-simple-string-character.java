@@ -1,4 +1,4 @@
-Creamos un programa que leerá la string y en base al codigo Unicode clasificará los caracteres en Mayusculas, Minusculas, Numeros y Caracteres Especiales
+//Creamos un programa que leerá la string y en base al codigo Unicode clasificará los caracteres en Mayusculas, Minusculas, Numeros y Caracteres Especiales
 
 import java.util.Scanner;
 
@@ -9,7 +9,6 @@ public class SimpleString {
         int Num = 0;
         int Special = 0;
        
-        //int[] solucion ={Mayus,Minus,Num,Special};//
         Scanner myObj = new Scanner(System.in);  // Create a Scanner object
     System.out.println("Enter string");
     
@@ -28,6 +27,6 @@ public class SimpleString {
             Special++;
         } 
     }
-    System.out.println("Solution for: " + str + " is " + Mayus + Minus + Num + Special);  // Output user inputaa
+    System.out.println("Solution for: " + str + " is " + Mayus + Minus + Num + Special);  // Output user input
 }
 }
