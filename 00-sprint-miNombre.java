@@ -1,4 +1,4 @@
-Creamos un programa que muestra por pantalla nuestro nombre y apellidos
+//Creamos un programa que muestra por pantalla nuestro nombre y apellidos//
 
 
 /*
